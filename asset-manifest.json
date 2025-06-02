@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nosal_26g_Lab_7/static/css/main.6be0bb92.css",
+    "main.js": "/Nosal_26g_Lab_7/static/js/main.0b7326fa.js",
+    "index.html": "/Nosal_26g_Lab_7/index.html",
+    "main.6be0bb92.css.map": "/Nosal_26g_Lab_7/static/css/main.6be0bb92.css.map",
+    "main.0b7326fa.js.map": "/Nosal_26g_Lab_7/static/js/main.0b7326fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6be0bb92.css",
+    "static/js/main.0b7326fa.js"
+  ]
+}
