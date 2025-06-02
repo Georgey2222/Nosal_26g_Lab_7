@@ -1,6 +1,6 @@
 [
-   {
-    "image": "./books/1984.jpg",
+  {
+    "image": "./books/Brief_history_of_time.jpeg",
     "title": "A Brief History of Time",
     "author": "Stephen Hawking",
     "price": 12.99,
@@ -8,7 +8,7 @@
     "category": "Science"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/The_Selfish_Gene_cover.jpg",
+    "image": "./books/the_selfish_gene.jpeg",
     "title": "The Selfish Gene",
     "author": "Richard Dawkins",
     "price": 14.5,
@@ -16,7 +16,7 @@
     "category": "Science"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/c/cb/Cosmos_book.gif",
+    "image": "./books/cosmos.jpeg",
     "title": "Cosmos",
     "author": "Carl Sagan",
     "price": 13.75,
@@ -24,7 +24,7 @@
     "category": "Science"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/Sapiens_A_Brief_History_of_Humankind.jpg",
+    "image": "./books/sapiens.jpeg",
     "title": "Sapiens",
     "author": "Yuval Noah Harari",
     "price": 15.0,
@@ -32,7 +32,7 @@
     "category": "Science"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/The_Gene_by_Siddhartha_Mukherjee.jpg",
+    "image": "./books/the_gene.jpeg",
     "title": "The Gene",
     "author": "Siddhartha Mukherjee",
     "price": 16.0,
@@ -40,7 +40,7 @@
     "category": "Science"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Emperor_of_All_Maladies.jpg",
+    "image": "./books/the_emperor_of_all_maladies.jpeg",
     "title": "The Emperor of All Maladies",
     "author": "Siddhartha Mukherjee",
     "price": 18.0,
@@ -48,7 +48,7 @@
     "category": "Science"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Guns%2C_Germs%2C_and_Steel.jpg",
+    "image": "./books/guns_germs_and_steel.jpeg",
     "title": "Guns, Germs, and Steel",
     "author": "Jared Diamond",
     "price": 17.0,
@@ -56,7 +56,7 @@
     "category": "Science"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/The_Structure_of_Scientific_Revolutions_%28book_cover%29.jpg",
+    "image": "./books/the_structure_of_scientific_revolutions.jpeg",
     "title": "The Structure of Scientific Revolutions",
     "author": "Thomas Kuhn",
     "price": 12.0,
@@ -64,7 +64,7 @@
     "category": "Science"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/1984first.jpg",
+    "image": "./books/1984.jpeg",
     "title": "1984",
     "author": "George Orwell",
     "price": 11.99,
@@ -72,7 +72,7 @@
     "category": "Fiction"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/To_Kill_a_Mockingbird.JPG",
+    "image": "./books/to_kill_a_mockingbird.jpeg",
     "title": "To Kill a Mockingbird",
     "author": "Harper Lee",
     "price": 10.5,
@@ -80,7 +80,7 @@
     "category": "Fiction"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/7/7e/The_Great_Gatsby_cover_1925_%281%29.jpg",
+    "image": "./books/the_great_gatsby.jpeg",
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
     "price": 9.75,
@@ -88,15 +88,15 @@
     "category": "Fiction"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/Crimeandpunishmentcover.png",
-    "title": "Crime and Punishment",
-    "author": "Fyodor Dostoevsky",
+    "image": "./books/Treasure-Island.jpg",
+    "title": "Treasure Island",
+    "author": "R.L.Stevenson",
     "price": 13.0,
     "stock": 4,
     "category": "Fiction"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/PrideAndPrejudiceTitlePage.jpg",
+    "image": "./books/pride_and_prejudice.jpeg",
     "title": "Pride and Prejudice",
     "author": "Jane Austen",
     "price": 8.99,
@@ -104,7 +104,7 @@
     "category": "Fiction"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/Moby-Dick_FE_title_page.jpg",
+    "image": "./books/moby_dick.jpeg",
     "title": "Moby-Dick",
     "author": "Herman Melville",
     "price": 10.25,
@@ -112,7 +112,7 @@
     "category": "Fiction"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
+    "image": "./books/the_catcher_in_the_rye.jpeg",
     "title": "The Catcher in the Rye",
     "author": "J.D. Salinger",
     "price": 9.0,
@@ -120,7 +120,7 @@
     "category": "Fiction"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/6/65/BraveNewWorld_FirstEdition.jpg",
+    "image": "./books/bravenewworld.jpeg",
     "title": "Brave New World",
     "author": "Aldous Huxley",
     "price": 10.99,
@@ -128,7 +128,7 @@
     "category": "Fiction"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Republic_by_Plato_%281876%29_title_page.jpg",
+    "image": "./books/the_republic.jpeg",
     "title": "The Republic",
     "author": "Plato",
     "price": 13.5,
@@ -136,7 +136,7 @@
     "category": "Philosophy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nietzsche_Umwertung_aller_Werte_1886.jpg",
+    "image": "./books/thus_spoke_zarathustra.jpeg",
     "title": "Thus Spoke Zarathustra",
     "author": "Friedrich Nietzsche",
     "price": 12.0,
@@ -144,7 +144,7 @@
     "category": "Philosophy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/1/13/Meditations_Marcus_Aurelius.png",
+    "image": "./books/meditations.jpeg",
     "title": "Meditations",
     "author": "Marcus Aurelius",
     "price": 11.5,
@@ -152,7 +152,7 @@
     "category": "Philosophy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Critique_of_Pure_Reason_title_page.jpg",
+    "image": "./books/critique_of_pure_reason.jpeg",
     "title": "Critique of Pure Reason",
     "author": "Immanuel Kant",
     "price": 15.0,
@@ -160,7 +160,7 @@
     "category": "Philosophy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/8/8b/Beyond_Good_and_Evil.jpg",
+    "image": "./books/beyond_good_and_evil.jpeg",
     "title": "Beyond Good and Evil",
     "author": "Friedrich Nietzsche",
     "price": 13.0,
@@ -168,7 +168,7 @@
     "category": "Philosophy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/e/e5/Being_and_Nothingness_%28Sartre_book%29.jpg",
+    "image": "./books/being_and_nothingness.jpeg",
     "title": "Being and Nothingness",
     "author": "Jean-Paul Sartre",
     "price": 14.5,
@@ -176,7 +176,7 @@
     "category": "Philosophy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/The_Social_Contract_%28Rousseau%29.jpg",
+    "image": "./books/the_social_contract.jpeg",
     "title": "The Social Contract",
     "author": "Jean-Jacques Rousseau",
     "price": 12.0,
@@ -184,7 +184,7 @@
     "category": "Philosophy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Leviathan_by_Thomas_Hobbes.jpg",
+    "image": "./books/leviathan.jpeg",
     "title": "Leviathan",
     "author": "Thomas Hobbes",
     "price": 13.5,
@@ -192,7 +192,7 @@
     "category": "Philosophy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/8/81/The_Diary_of_a_Young_Girl.jpg",
+    "image": "./books/diary_of_young_girl.jpeg",
     "title": "The Diary of a Young Girl",
     "author": "Anne Frank",
     "price": 9.99,
@@ -200,7 +200,7 @@
     "category": "Biography"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Long_Walk_to_Freedom.jpg",
+    "image": "./books/long_walk_to_freedom.jpeg",
     "title": "Long Walk to Freedom",
     "author": "Nelson Mandela",
     "price": 14.0,
@@ -208,7 +208,7 @@
     "category": "Biography"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/a/a4/Steve_Jobs_by_Walter_Isaacson.jpg",
+    "image": "./books/steve_jobs.jpeg",
     "title": "Steve Jobs",
     "author": "Walter Isaacson",
     "price": 16.0,
@@ -216,7 +216,7 @@
     "category": "Biography"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/The_Story_of_My_Experiments_with_Truth.jpg",
+    "image": "./books/the_story_of_my_experiments_with_truth.jpeg",
     "title": "The Story of My Experiments with Truth",
     "author": "Mahatma Gandhi",
     "price": 11.5,
@@ -224,7 +224,7 @@
     "category": "Biography"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Nightingale_bio.jpg",
+    "image": "./books/florence_nightingale_the_woman_and_her_legend.jpeg",
     "title": "Florence Nightingale: The Woman and Her Legend",
     "author": "Mark Bostridge",
     "price": 13.0,
@@ -232,7 +232,7 @@
     "category": "Biography"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/7/78/AlexanderHamiltonbyRonChernow.jpg",
+    "image": "./books/alex_gamilton.jpeg",
     "title": "Alexander Hamilton",
     "author": "Ron Chernow",
     "price": 15.0,
@@ -240,7 +240,7 @@
     "category": "Biography"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Diary_of_Helena_Morley.jpg",
+    "image": "./books/the_diary_of_helena_morley.jpeg",
     "title": "The Diary of Helena Morley",
     "author": "Alice Dayrell Caldeira Brant",
     "price": 10.5,
@@ -248,16 +248,15 @@
     "category": "Biography"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/5/53/EinsteinHisLifeAndUniverse.jpg",
+    "image": "./books/einstein_his_life_and_universe.jpeg",
     "title": "Einstein: His Life and Universe",
     "author": "Walter Isaacson",
     "price": 14.25,
     "stock": 3,
     "category": "Biography"
   },
-
   {
-    "image": "https://shop.dinternal-education.ua/store-uploads/products/product/2024/11/15/12.jpg",
+    "image": "./books/hobbit.jpeg",
     "title": "The Hobbit",
     "author": "J.R.R. Tolkien",
     "price": 10.99,
@@ -265,7 +264,7 @@
     "category": "Fantasy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/The_Lord_of_the_Rings_cover.gif",
+    "image": "./books/lord_of_rings.jpeg",
     "title": "The Lord of the Rings",
     "author": "J.R.R. Tolkien",
     "price": 22.0,
@@ -273,7 +272,7 @@
     "category": "Fantasy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
+    "image": "./books/harry_potter_1.jpeg",
     "title": "Harry Potter and the Sorcerer's Stone",
     "author": "J.K. Rowling",
     "price": 12.99,
@@ -281,7 +280,7 @@
     "category": "Fantasy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/A_Game_of_Thrones.jpg",
+    "image": "./books/game_of_thrones.jpeg",
     "title": "A Game of Thrones",
     "author": "George R.R. Martin",
     "price": 14.5,
@@ -289,7 +288,7 @@
     "category": "Fantasy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/The_Name_of_the_Wind_cover.jpg",
+    "image": "./books/name_of_the_wind.jpeg",
     "title": "The Name of the Wind",
     "author": "Patrick Rothfuss",
     "price": 13.0,
@@ -297,7 +296,7 @@
     "category": "Fantasy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/The_Lion%2C_the_Witch_and_the_Wardrobe_%281950%29.jpg",
+    "image": "./books/lion_witch_and_wardrobe.jpeg",
     "title": "The Lion, the Witch and the Wardrobe",
     "author": "C.S. Lewis",
     "price": 10.0,
@@ -305,7 +304,7 @@
     "category": "Fantasy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Earthsea_Cycle_1A_Wizard_of_Earthsea.jpg",
+    "image": "./books/a_wizard_of_earthsea.jpeg",
     "title": "A Wizard of Earthsea",
     "author": "Ursula K. Le Guin",
     "price": 11.5,
@@ -313,7 +312,7 @@
     "category": "Fantasy"
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/Mistborn-cover.jpg",
+    "image": "./books/mistborn_the_final_empire.jpeg",
     "title": "Mistborn: The Final Empire",
     "author": "Brandon Sanderson",
     "price": 12.75,

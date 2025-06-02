@@ -1,7 +1,7 @@
 :root
 {
    --size:10px;
-   --pad:calc(var(--size)*10);
+   --pad:calc(var(--size)*5);
    --good:calc(var(--size));
    --hed:calc(var(--size));
 }
@@ -57,22 +57,23 @@ margin-top:calc(var(--size)*5);
 margin-bottom: calc(var(--size)*3);
 margin-left:calc(var(--size)*5.5);
 }
-.goods-header {
+.goods-header 
+{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: var(--pad);
-    padding-right: var(--pad);
     margin-bottom: calc(var(--size) * 2);
+    margin-top: calc(var(--size));
 }
-
-.goods-header > h1 {
+.goods-header > h1 
+{
     margin: 0;
     font-size: calc(var(--size) * 4);
 }
-
-.goods-header > select {
+.goods-header > select 
+{
     height: calc(var(--good) * 6);
+    width:calc(var(--size)*18);
     font-size: calc(var(--good) * 2);
     padding: calc(var(--good) * 1);
     border: 1px solid lightgrey;
@@ -96,6 +97,18 @@ margin-left:calc(var(--size)*5.5);
         grid-template-columns: 1fr 1fr;
         justify-items: center; 
     }
+    :root 
+    {
+        --good:calc(var(--size)*2);
+        --hed:calc(var(--size)*2);
+    }
+    *
+    {
+        font-size: calc(var(--size)*4.2);
+    }
+}
+@media(max-width:500px)
+{
     :root 
     {
         --good:calc(var(--size)*2);

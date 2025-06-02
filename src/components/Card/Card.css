@@ -1,6 +1,6 @@
 :root
 {
-    --good:10px;
+  --good:calc(var(--size)*1.11);
 }
 .product-card {
   height: calc(var(--good) * 60); 
@@ -20,10 +20,8 @@
 
 .product-card > img {
   height: calc(var(--good) * 28);
-  width: calc(var(--good) * 22);
   object-fit: contain;
-  border-radius: 5%;
-  border: 1px solid black;
+  border-radius: calc(var(--size)*2);
   background-color: #f0f0f0;
 }
 
@@ -68,4 +66,16 @@
 
 .product-card > button:active {
   box-shadow: 0 0 calc(var(--good) * 1.5) 0 rgba(0, 0, 255, 1);
+}
+@media(max-width:500px)
+{
+    :root 
+    {
+        --good:calc(var(--size)*2);
+        --hed:calc(var(--size)*2);
+    }
+    *
+    {
+        font-size: calc(var(--size)*4.2);
+    }
 }
