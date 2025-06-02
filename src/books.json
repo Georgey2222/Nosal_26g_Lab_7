@@ -90,7 +90,7 @@
   {
     "image": "./books/Treasure-Island.jpg",
     "title": "Treasure Island",
-    "author": "R.L.Stevenson",
+    "author": "R.L. Stevenson",
     "price": 13.0,
     "stock": 4,
     "category": "Fiction"
